@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title> Meu primeiro Site em PHP " Woohoo"</title>
+    <title> Oque e PHP</title>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
