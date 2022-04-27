@@ -5,7 +5,7 @@
   Construir um site utilizando alguma biblioteca visual jQuery (como Accordion).     
 ***
 
-### Resultado Final :
+### Resultado Final :white_check_mark:
 ***
  ![Site 1](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Accordion/imagens/Site-1.png?raw=true)
  ![Site 2](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Accordion/imagens/image-php.jpg?raw=true)
