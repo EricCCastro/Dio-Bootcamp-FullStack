@@ -62,7 +62,7 @@
         <p></p>
     </div>
     <div">
-        <img src="https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Accordion/image-php.jpg?raw=true" alt="some text" width=100% height=100%>
+        <img src="https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Accordion/image-php.jpg?raw=true" alt="some text" width=100%>
     </div>
 
     <script>
