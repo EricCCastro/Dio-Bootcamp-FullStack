@@ -12,6 +12,6 @@
  ![Site 3](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Flexbox/imagens/Flexbox%20Site/Img-3.png?raw=true)
  ![Site 4](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Flexbox/imagens/Flexbox%20Site/Img-4.png?raw=true)
 
-   Acesse o site você mesmo [Flexbox :beginner:](https://ericcastroc.github.io/Dio-Bootcamp-FullStack/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Flexbox/#quem-somos)
+   Acesse o site você mesmo [Flex Turismo :beginner:](https://ericcastroc.github.io/Dio-Bootcamp-FullStack/Spread%20Fullstack%20Developer/Modulo%20HTML-CSS3/Flexbox/#quem-somos)
 ***
 - Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
