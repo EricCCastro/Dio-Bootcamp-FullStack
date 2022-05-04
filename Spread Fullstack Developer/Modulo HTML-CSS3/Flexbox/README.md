@@ -1,6 +1,6 @@
-# Interface Flexbox :airplane:
+# Interface Flex Turismo :airplane:
 
-### Desafio HTML/CSS3 (Flexbox):round_pushpin:
+### Desafio HTML/CSS3 (Flexbx):round_pushpin:
 ***
   Construir uma página de tema livre, utilizando HTML e CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
 ***
