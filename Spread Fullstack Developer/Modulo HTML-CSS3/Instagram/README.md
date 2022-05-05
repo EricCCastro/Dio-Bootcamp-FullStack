@@ -2,7 +2,7 @@
 
 ### Desafio HTML/CSS3 (Instagram) :vibration_mode:
 ***
-  Nesse projeto o desafio foi reconstruir a página de login do Instagram. Utilizando o CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
+  Nesse projeto o desafio foi reconstruir a página de login do Instagram, utilizando o CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
 ***
 
 ### Resultado Final :white_check_mark:
