@@ -14,7 +14,7 @@ Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
 
 ### Resultado Final :white_check_mark:
 ***
- ![Site 1](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20Javascript/To-do%20List/imagens/Site.png?raw=true)
+ ![Site 1](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20Javascript/To-do%20List/imagens/Screenshot_1.png?raw=true)
 
 Acesse o site você mesmo [To-do List :beginner:](https://ericcastroc.github.io/Dio-Bootcamp-FullStack/Spread%20Fullstack%20Developer/Modulo%20Javascript/To-do%20List/)
 ***
