@@ -1,8 +1,8 @@
-# Sintaxe e Operadores
+# Sintaxe e Operadores :computer:
 
 Este repositório contém a atividade prática do Curso "Sintaxe e Operadores", que faz parte do Basecamp de Javascript pela [Digital Innovation One](https://digitalinnovation.one/).
 
-## Atividade
+## Dicas :inbox_tray:
 
 - Crie uma função que recebe dois números como parâmetros.
 - Confira se os números são iguais.
