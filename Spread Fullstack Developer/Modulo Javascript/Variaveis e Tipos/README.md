@@ -1,14 +1,14 @@
-# Variáveis e Tipos
+# Variáveis e Tipos :computer:
 
-Neste repositório você encontrará a atividade prática proposta pelo curso "Variáveis e Tipos" do Basecamp de Javascript que ministrei pela Digital Innovation One.
+Neste repositório você encontrará a atividade prática proposta pelo curso "Variáveis e Tipos" do Basecamp de Javascript pela [Digital Innovation One](https://digitalinnovation.one/).
 
-## Atividade 1
+## Atividade 1 :inbox_tray:
 
 Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
 
 _Palíndromo: frase ou palavra que se pode ler, indiferentemente, da esquerda para a direita ou vice-versa (ex.: raiar, ama, ovo, radar)_
 
-## Atividade 2
+## Atividade 2 :inbox_tray:
 
 Troque todos os elementos pares e diferentes de zero de um array pelo número 0. Se o array for vazio, retorne -1.
 
