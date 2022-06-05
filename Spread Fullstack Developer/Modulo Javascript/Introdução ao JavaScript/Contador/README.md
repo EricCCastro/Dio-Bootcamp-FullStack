@@ -14,7 +14,7 @@ Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
 
 ### Resultado Final :white_check_mark:
 ***
- ![Site 1](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20Javascript/Contador/imagens/Screenshot_1.png?raw=true)
+ ![Site 1](https://github.com/ericcastroc/Dio-Bootcamp-FullStack/blob/main/Spread%20Fullstack%20Developer/Modulo%20Javascript/Introdu%C3%A7%C3%A3o%20ao%20JavaScript/Contador/imagens/Screenshot_1.png?raw=true)
 
 Acesse o site você mesmo [Contador :beginner:](https://ericcastroc.github.io/Dio-Bootcamp-FullStack/Spread%20Fullstack%20Developer/Modulo%20Javascript/Contador/)
 ***
