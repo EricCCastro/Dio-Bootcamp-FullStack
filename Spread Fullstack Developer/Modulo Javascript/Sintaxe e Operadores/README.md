@@ -1,5 +1,5 @@
 # Sintaxe e Operadores :computer:
-
+***
 Este repositório contém a atividade prática do Curso "Sintaxe e Operadores", que faz parte do Basecamp de Javascript pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Dicas :inbox_tray:
@@ -15,3 +15,5 @@ Exemplo:
 Input: 1, 2
 Output: Os números 1 e 2 não são iguais. Sua soma é 3, que é menor que 10 e menor que 20.
 ```
+***
+- Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
