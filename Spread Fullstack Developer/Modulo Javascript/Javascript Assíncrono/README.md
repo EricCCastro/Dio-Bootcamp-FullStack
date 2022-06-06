@@ -11,7 +11,7 @@ Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinh
 ***
 ### Resultado Final :white_check_mark:
 ***
- ![Site 1]()
+ ![Site 1](https://raw.githubusercontent.com/ericcastroc/Dio-Bootcamp-FullStack/a720bc91eec111bf0cd4b6992559948bf3ff64e2/Spread%20Fullstack%20Developer/Modulo%20Javascript/Javascript%20Ass%C3%ADncrono/image/api-cats.gif)
 
 
 ***
